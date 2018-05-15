@@ -1,0 +1,43 @@
+body {
+	font-family: sans-serif; 
+	margin: 0; }
+p, ol {
+	font-size: 1.2em; 
+	margin: 1em; }
+.q {
+	font-style: italic; }
+ol {
+	list-style-type: lower-alpha; }
+span.bold {
+	font-weight: bold;}
+h1, h2 {
+	background: #008C99;
+	color: white; 
+	text-align: center; 
+	padding: 0.15em;
+	margin: 0; }
+#title {
+	font-family: Book Antiqua, serif; 
+	text-align: center; 
+	font-size: 3em; 
+//	position: fixed;
+	}
+#p6 {
+	padding-left: 2em; }
+img {
+	width: 5em; }
+button {
+	background-color: #008C99;
+    border: none;
+    color: white;
+	padding: 0.15em;
+    text-align: center;
+    font-size: 1.5em;
+    cursor: pointer; 
+    font-weight: bold; 
+    width: 100%; }
+#container {
+	position: relative; 
+	height: 5em;}
+#animateMarvin {
+	position: absolute; }
